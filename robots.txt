@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooreiweya.drupblue.com/sitemap.xml
